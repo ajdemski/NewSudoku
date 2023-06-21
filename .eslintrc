@@ -9,6 +9,9 @@
     "browser": true,
     "node": true
   },
+  "ignorePatterns": [
+    "__tests__/"
+  ],
   "rules": {
     "semi": 1,
     "indent": ["warn", 2],
